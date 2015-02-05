@@ -86,7 +86,7 @@ var work = {
 			"title": "Ride Operator",
 			"date": "February 2013 - September 2014",
 			"location": "Buckhead, GA",
-			"description": "I was tasked with entertaining guests and operated rides throughout the attraction." 
+			"description": "I was tasked with entertaining guests and operating rides throughout the attraction." 
 
 		}, {
 			"employer": "GameStop",
@@ -96,8 +96,8 @@ var work = {
 			"description": "Sale games using register as well as advise customers of popular titles to purchase to increase market revenue."
 		}, {
 			"employer": "Southern Company/Georgia Power",
-			"title": "Desktop Support Intern",
-			"date": "January 2015 - Present",
+			"title": "Desktop Support",
+			"date": "January 2015 - Current",
 			"location": "Atlanta, GA",
 			"description": "In charge of basic documentation of insidences using REMEDY software to access cases, and maintaining of instances of hardware failure, repairs, installations, shipments, etc."
 		},
