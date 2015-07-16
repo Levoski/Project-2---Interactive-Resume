@@ -3,7 +3,7 @@ var bio = {
 	"name": "Levoski Brown",
 	"role": "Front-End Web Developer",
 	"contacts": {
-		"mobile": "555-555-5555 ",
+		"mobile": "678-895-3000 ",
 		"email" : "levoskibrown@gmail.com ",
 		"github": "Levoski ",
 		"twitter" : "levoskibrown",
